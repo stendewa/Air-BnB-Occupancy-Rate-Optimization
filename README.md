@@ -56,3 +56,16 @@ The model did well on both the training and test data and determined an accuracy
 
 ### Random Forest Classifier
 The model performed well on the training and test data and determined an accuracy of 99% using a cross validation test
+
+### Model Recommendations
+
+#### 1. What factors affect occupancy rate the most in an Air BnB listing?
+The reviews and neighbourhood affect the occupancy rate the most. The more reviews a listing gets the more likely it is to get a HIGH' occupancy rate score
+
+#### 2. What can be done to increase the positive effects of these factors?
+Encourage customers to give more reviews, dynamic pricing, target marketing, loyalty programs, partner with neighbouring buisnesses for discounted services, advertise on several 
+channels and constantly remodel. For more tips check the link to this video in [youtube]{https://www.youtube.com/watch?v=WmB-oAAW8MQ}
+
+#### 3. What is the best performing neighbourhood on the Western Cape in terms of occupancy rate?
+According to the Random Forest model the best neighbourhood to set up an Air BnB is Ward 107
+
